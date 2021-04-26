@@ -1,0 +1,17 @@
+body {
+    border:10px solid black;
+    box-shadow: red 10px 10px 10px;
+    background:#FEF99A;
+color:black;
+}
+Header {
+    Text-shadow:pink 20px 20px 30px;
+Text-align: center;
+}
+h1{
+    Text-shadow:white 20px 20px 30px;
+    Color:white;
+Font-size:60px;
+Font-family:Arial;
+text-transform: uppercase;
+}
